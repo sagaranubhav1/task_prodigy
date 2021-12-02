@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "368817717070",
+    "project_id": "tasksoftprodigy",
+    "storage_bucket": "tasksoftprodigy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368817717070:android:8a471c63da50227e30681f",
+        "android_client_info": {
+          "package_name": "com.softprodigy_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368817717070-4qg7a2ifk5f2j7a872h0tpornjdn2sdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaX6fEgGLf7dL1mXDF1v8GnbT3jGq5nA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368817717070-4qg7a2ifk5f2j7a872h0tpornjdn2sdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368817717070:android:c2421356573bf3e430681f",
+        "android_client_info": {
+          "package_name": "com.task_softprodigy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368817717070-4qg7a2ifk5f2j7a872h0tpornjdn2sdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaX6fEgGLf7dL1mXDF1v8GnbT3jGq5nA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368817717070-4qg7a2ifk5f2j7a872h0tpornjdn2sdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
